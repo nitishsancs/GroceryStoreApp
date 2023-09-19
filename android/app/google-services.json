@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1050927205580",
+    "project_id": "auth-b5f70",
+    "storage_bucket": "auth-b5f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050927205580:android:3eab6d55cfe57307a74669",
+        "android_client_info": {
+          "package_name": "com.example.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050927205580-a9te7afh2gsd8qvqrdf1oqo3a1hrp8ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoJTQBMuBfzBWGJ_n5Icv6DkkVgA1_7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050927205580-a9te7afh2gsd8qvqrdf1oqo3a1hrp8ec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050927205580-3kpktvn4ou87ruhlr7qflqs2p1r659lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nitchu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050927205580:android:afad864bf863d88fa74669",
+        "android_client_info": {
+          "package_name": "com.example.nitchu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050927205580-a9te7afh2gsd8qvqrdf1oqo3a1hrp8ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoJTQBMuBfzBWGJ_n5Icv6DkkVgA1_7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050927205580-a9te7afh2gsd8qvqrdf1oqo3a1hrp8ec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050927205580-3kpktvn4ou87ruhlr7qflqs2p1r659lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nitchu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

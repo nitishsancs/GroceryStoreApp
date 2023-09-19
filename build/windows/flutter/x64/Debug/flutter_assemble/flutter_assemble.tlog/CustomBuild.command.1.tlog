@@ -1,0 +1,28 @@
+^C:\USERS\NITISH\DOWNLOADS\GROCERYSTOREAPP-MAIN\GROCERYSTOREAPP-MAIN\BUILD\WINDOWS\CMAKEFILES\859CF39694D58706602A924B7EA6B321\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\flutter_windows_3.10.4-stable\flutter PROJECT_DIR=C:\Users\Nitish\Downloads\GroceryStoreApp-main\GroceryStoreApp-main FLUTTER_ROOT=D:\flutter_windows_3.10.4-stable\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Nitish\Downloads\GroceryStoreApp-main\GroceryStoreApp-main\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Nitish\Downloads\GroceryStoreApp-main\GroceryStoreApp-main FLUTTER_TARGET=C:\Users\Nitish\Downloads\GroceryStoreApp-main\GroceryStoreApp-main\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8yYTM0MDFjOWJiYjVhOWE5YWVjNzRkNGY3MzVkMThhOWRkM2ViZjJkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Nitish\Downloads\GroceryStoreApp-main\GroceryStoreApp-main\.dart_tool\package_config.json D:/flutter_windows_3.10.4-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\NITISH\DOWNLOADS\GROCERYSTOREAPP-MAIN\GROCERYSTOREAPP-MAIN\BUILD\WINDOWS\CMAKEFILES\DAC55DC20A638CD32B35D29236E453DA\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\NITISH\DOWNLOADS\GROCERYSTOREAPP-MAIN\GROCERYSTOREAPP-MAIN\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Nitish/Downloads/GroceryStoreApp-main/GroceryStoreApp-main/windows -BC:/Users/Nitish/Downloads/GroceryStoreApp-main/GroceryStoreApp-main/build/windows --check-stamp-file C:/Users/Nitish/Downloads/GroceryStoreApp-main/GroceryStoreApp-main/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

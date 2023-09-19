@@ -1,0 +1,4 @@
+#Wed Jul 05 14:23:13 IST 2023
+base.0=C\:\\Users\\Nitish\\Downloads\\GroceryStoreApp-main\\GroceryStoreApp-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

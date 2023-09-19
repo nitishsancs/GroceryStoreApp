@@ -1,0 +1,10 @@
+^C:\USERS\NITISH\DOWNLOADS\GROCERYSTOREAPP-MAIN\GROCERYSTOREAPP-MAIN\BUILD\WINDOWS\CMAKEFILES\264FC5D44C31344835A09704BDE0A8D7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Nitish/Downloads/GroceryStoreApp-main/GroceryStoreApp-main/windows -BC:/Users/Nitish/Downloads/GroceryStoreApp-main/GroceryStoreApp-main/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Nitish/Downloads/GroceryStoreApp-main/GroceryStoreApp-main/build/windows/groceryapp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
